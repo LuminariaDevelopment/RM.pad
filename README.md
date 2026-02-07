@@ -5,7 +5,8 @@ A mechanical macropad designed for productivity and musical expression with a mi
 * Three Layers: Productivity, System/Media, and a bonus mini MIDI Instrument.
 * Layer-Specific Lighting: Visual feedback that changes depening on which layer you are currently using.
 * Multi-Function Rotary Encoder: Context-aware knob for volume, scrolling, and MIDI CC.
-
+  
+<img width="953" height="710" alt="image" src="https://github.com/user-attachments/assets/689dd492-013c-4285-8376-02eb9aeea0f9" />
 <img width="1281" height="803" alt="image" src="https://github.com/user-attachments/assets/b061507d-ae78-4865-afca-f10018d173da" />
 <img width="1053" height="705" alt="image" src="https://github.com/user-attachments/assets/356652c0-4e0f-44dc-a00c-0b6338c0e8d0" />
 
