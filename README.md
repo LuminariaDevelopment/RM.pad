@@ -60,5 +60,4 @@ EC11 Rotary Encoder - [here](https://keeb.io/products/rotary-encoder-ec11) (x1)
 
 Blank DSA Keycaps (Black)(x9) - [here](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/)
 
-
-AI was used to polish `readme.md`
+(AI was used to polish `README.md`)
